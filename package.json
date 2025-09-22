@@ -1,0 +1,16 @@
+{
+  "name": "peerqa",
+  "version": "1.0.0",
+  "description": "Personal workspace for peerqa - Peerbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node index.js"
+  },
+  "keywords": ["peerqa", "peerbot"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
